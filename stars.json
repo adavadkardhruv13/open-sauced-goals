@@ -1,44 +1,44 @@
 [
   {
     "full_name": "fineanmol/Hacktoberfest2022",
-    "stargazers_count": 931,
-    "open_issues_count": 1244,
-    "forks_count": 2651
+    "stargazers_count": 1050,
+    "open_issues_count": 1419,
+    "forks_count": 2917
   },
   {
     "full_name": "ossamamehmood/Hacktoberfest2022",
-    "stargazers_count": 476,
-    "open_issues_count": 14,
-    "forks_count": 1586
+    "stargazers_count": 521,
+    "open_issues_count": 50,
+    "forks_count": 1806
   },
   {
     "full_name": "rohitg00/DevOpsCommunity",
     "stargazers_count": 220,
-    "open_issues_count": 7,
+    "open_issues_count": 6,
     "forks_count": 42
   },
   {
     "full_name": "kubescape/kubescape",
-    "stargazers_count": 7047,
-    "open_issues_count": 63,
-    "forks_count": 582
+    "stargazers_count": 7059,
+    "open_issues_count": 67,
+    "forks_count": 583
   },
   {
     "full_name": "bregman-arie/devops-exercises",
-    "stargazers_count": 31206,
+    "stargazers_count": 31289,
     "open_issues_count": 15,
-    "forks_count": 6735
+    "forks_count": 6769
   },
   {
     "full_name": "in28minutes/devops-master-class",
-    "stargazers_count": 1059,
+    "stargazers_count": 1061,
     "open_issues_count": 5,
-    "forks_count": 3545
+    "forks_count": 3561
   },
   {
     "full_name": "kubernetes/kubernetes",
-    "stargazers_count": 92746,
-    "open_issues_count": 2387,
-    "forks_count": 34015
+    "stargazers_count": 92851,
+    "open_issues_count": 2418,
+    "forks_count": 34065
   }
 ]
