@@ -1,13 +1,13 @@
 [
   {
     "full_name": "getdozer/dozer",
-    "stargazers_count": 883,
-    "open_issues_count": 96,
-    "forks_count": 56
+    "stargazers_count": 921,
+    "open_issues_count": 99,
+    "forks_count": 57
   },
   {
     "full_name": "sajib1066/django-event-management",
-    "stargazers_count": 64,
+    "stargazers_count": 65,
     "open_issues_count": 2,
     "forks_count": 44
   },
@@ -19,50 +19,50 @@
   },
   {
     "full_name": "keploy/keploy",
-    "stargazers_count": 1753,
-    "open_issues_count": 162,
-    "forks_count": 168
+    "stargazers_count": 1758,
+    "open_issues_count": 164,
+    "forks_count": 169
   },
   {
     "full_name": "fineanmol/Hacktoberfest2022",
-    "stargazers_count": 1268,
-    "open_issues_count": 2294,
-    "forks_count": 4656
+    "stargazers_count": 1269,
+    "open_issues_count": 2289,
+    "forks_count": 4650
   },
   {
     "full_name": "ossamamehmood/Hacktoberfest2023",
     "stargazers_count": 638,
     "open_issues_count": 0,
-    "forks_count": 3319
+    "forks_count": 3315
   },
   {
     "full_name": "rohitg00/DevOpsCommunity",
-    "stargazers_count": 452,
+    "stargazers_count": 453,
     "open_issues_count": 5,
     "forks_count": 106
   },
   {
     "full_name": "kubescape/kubescape",
-    "stargazers_count": 8264,
-    "open_issues_count": 75,
-    "forks_count": 692
+    "stargazers_count": 8292,
+    "open_issues_count": 74,
+    "forks_count": 693
   },
   {
     "full_name": "bregman-arie/devops-exercises",
-    "stargazers_count": 42294,
+    "stargazers_count": 42349,
     "open_issues_count": 17,
-    "forks_count": 9363
+    "forks_count": 9384
   },
   {
     "full_name": "in28minutes/devops-master-class",
-    "stargazers_count": 1389,
+    "stargazers_count": 1394,
     "open_issues_count": 8,
-    "forks_count": 4340
+    "forks_count": 4352
   },
   {
     "full_name": "kubernetes/kubernetes",
-    "stargazers_count": 97549,
-    "open_issues_count": 2494,
-    "forks_count": 35830
+    "stargazers_count": 97671,
+    "open_issues_count": 2535,
+    "forks_count": 35876
   }
 ]
