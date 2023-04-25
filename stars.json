@@ -1,13 +1,13 @@
 [
   {
     "full_name": "getdozer/dozer",
-    "stargazers_count": 921,
-    "open_issues_count": 99,
-    "forks_count": 57
+    "stargazers_count": 936,
+    "open_issues_count": 97,
+    "forks_count": 61
   },
   {
     "full_name": "sajib1066/django-event-management",
-    "stargazers_count": 65,
+    "stargazers_count": 66,
     "open_issues_count": 2,
     "forks_count": 44
   },
@@ -19,50 +19,50 @@
   },
   {
     "full_name": "keploy/keploy",
-    "stargazers_count": 1758,
-    "open_issues_count": 164,
-    "forks_count": 169
+    "stargazers_count": 1767,
+    "open_issues_count": 163,
+    "forks_count": 170
   },
   {
     "full_name": "fineanmol/Hacktoberfest2022",
-    "stargazers_count": 1269,
-    "open_issues_count": 2289,
-    "forks_count": 4650
+    "stargazers_count": 1268,
+    "open_issues_count": 2286,
+    "forks_count": 4643
   },
   {
     "full_name": "ossamamehmood/Hacktoberfest2023",
-    "stargazers_count": 638,
+    "stargazers_count": 637,
     "open_issues_count": 0,
-    "forks_count": 3315
+    "forks_count": 3310
   },
   {
     "full_name": "rohitg00/DevOpsCommunity",
     "stargazers_count": 453,
     "open_issues_count": 5,
-    "forks_count": 106
+    "forks_count": 108
   },
   {
     "full_name": "kubescape/kubescape",
-    "stargazers_count": 8292,
-    "open_issues_count": 74,
-    "forks_count": 693
+    "stargazers_count": 8310,
+    "open_issues_count": 73,
+    "forks_count": 695
   },
   {
     "full_name": "bregman-arie/devops-exercises",
-    "stargazers_count": 42349,
+    "stargazers_count": 42539,
     "open_issues_count": 17,
-    "forks_count": 9384
+    "forks_count": 9421
   },
   {
     "full_name": "in28minutes/devops-master-class",
-    "stargazers_count": 1394,
+    "stargazers_count": 1399,
     "open_issues_count": 8,
-    "forks_count": 4352
+    "forks_count": 4364
   },
   {
     "full_name": "kubernetes/kubernetes",
-    "stargazers_count": 97671,
-    "open_issues_count": 2535,
-    "forks_count": 35876
+    "stargazers_count": 97777,
+    "open_issues_count": 2542,
+    "forks_count": 35917
   }
 ]
