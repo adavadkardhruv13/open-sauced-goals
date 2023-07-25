@@ -1,31 +1,31 @@
 [
   {
     "full_name": "keploy/keploy",
-    "stargazers_count": 2032,
-    "open_issues_count": 176,
-    "forks_count": 200
+    "stargazers_count": 2030,
+    "open_issues_count": 180,
+    "forks_count": 201
   },
   {
     "full_name": "vagabond-systems/forage-lyft-starter-repo",
-    "stargazers_count": 82,
-    "open_issues_count": 49,
-    "forks_count": 1777
+    "stargazers_count": 83,
+    "open_issues_count": 50,
+    "forks_count": 1806
   },
   {
     "full_name": "riti2409/Resources-for-preparation-Of-Placements",
-    "stargazers_count": 2773,
+    "stargazers_count": 2779,
     "open_issues_count": 7,
     "forks_count": 731
   },
   {
     "full_name": "getdozer/dozer",
-    "stargazers_count": 1183,
-    "open_issues_count": 112,
-    "forks_count": 84
+    "stargazers_count": 1188,
+    "open_issues_count": 113,
+    "forks_count": 85
   },
   {
     "full_name": "sajib1066/django-event-management",
-    "stargazers_count": 74,
+    "stargazers_count": 75,
     "open_issues_count": 4,
     "forks_count": 45
   },
@@ -37,15 +37,15 @@
   },
   {
     "full_name": "fineanmol/Hacktoberfest2023",
-    "stargazers_count": 1253,
-    "open_issues_count": 2228,
-    "forks_count": 4550
+    "stargazers_count": 1251,
+    "open_issues_count": 2225,
+    "forks_count": 4546
   },
   {
     "full_name": "ossamamehmood/Hacktoberfest2023",
-    "stargazers_count": 632,
+    "stargazers_count": 633,
     "open_issues_count": 0,
-    "forks_count": 3230
+    "forks_count": 3227
   },
   {
     "full_name": "rohitg00/DevOpsCommunity",
@@ -55,26 +55,26 @@
   },
   {
     "full_name": "kubescape/kubescape",
-    "stargazers_count": 8662,
-    "open_issues_count": 79,
-    "forks_count": 735
+    "stargazers_count": 8685,
+    "open_issues_count": 85,
+    "forks_count": 737
   },
   {
     "full_name": "bregman-arie/devops-exercises",
-    "stargazers_count": 44768,
-    "open_issues_count": 22,
-    "forks_count": 10066
+    "stargazers_count": 44819,
+    "open_issues_count": 23,
+    "forks_count": 10083
   },
   {
     "full_name": "in28minutes/devops-master-class",
-    "stargazers_count": 1584,
+    "stargazers_count": 1592,
     "open_issues_count": 10,
-    "forks_count": 4740
+    "forks_count": 4749
   },
   {
     "full_name": "kubernetes/kubernetes",
-    "stargazers_count": 100248,
-    "open_issues_count": 2502,
-    "forks_count": 36997
+    "stargazers_count": 100330,
+    "open_issues_count": 2531,
+    "forks_count": 37301
   }
 ]
