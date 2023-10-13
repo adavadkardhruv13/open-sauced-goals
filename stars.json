@@ -1,45 +1,45 @@
 [
   {
     "full_name": "Netflix/conductor",
-    "stargazers_count": 10955,
-    "open_issues_count": 143,
-    "forks_count": 2268
+    "stargazers_count": 11057,
+    "open_issues_count": 144,
+    "forks_count": 2271
   },
   {
     "full_name": "deepfence/ThreatMapper",
-    "stargazers_count": 4477,
-    "open_issues_count": 192,
-    "forks_count": 569
+    "stargazers_count": 4473,
+    "open_issues_count": 193,
+    "forks_count": 566
   },
   {
     "full_name": "deepfence/ebpfguard",
     "stargazers_count": 266,
     "open_issues_count": 12,
-    "forks_count": 104
+    "forks_count": 103
   },
   {
     "full_name": "deepfence/YaraHunter",
-    "stargazers_count": 1229,
+    "stargazers_count": 1228,
     "open_issues_count": 7,
-    "forks_count": 175
+    "forks_count": 173
   },
   {
     "full_name": "deepfence/PacketStreamer",
-    "stargazers_count": 1849,
+    "stargazers_count": 1848,
     "open_issues_count": 21,
-    "forks_count": 269
+    "forks_count": 266
   },
   {
     "full_name": "deepfence/SecretScanner",
-    "stargazers_count": 2868,
+    "stargazers_count": 2871,
     "open_issues_count": 20,
-    "forks_count": 328
+    "forks_count": 327
   },
   {
     "full_name": "deepfence/FlowMeter",
-    "stargazers_count": 1064,
+    "stargazers_count": 1063,
     "open_issues_count": 2,
-    "forks_count": 192
+    "forks_count": 190
   },
   {
     "full_name": "Knighthawk-Leo/Awesome_Python_Scripts",
@@ -49,33 +49,33 @@
   },
   {
     "full_name": "keploy/keploy",
-    "stargazers_count": 2330,
-    "open_issues_count": 165,
-    "forks_count": 243
+    "stargazers_count": 2350,
+    "open_issues_count": 166,
+    "forks_count": 248
   },
   {
     "full_name": "vagabond-systems/forage-lyft-starter-repo",
-    "stargazers_count": 99,
-    "open_issues_count": 68,
-    "forks_count": 2166
+    "stargazers_count": 101,
+    "open_issues_count": 72,
+    "forks_count": 2187
   },
   {
     "full_name": "riti2409/Resources-for-preparation-Of-Placements",
-    "stargazers_count": 2938,
+    "stargazers_count": 2941,
     "open_issues_count": 10,
-    "forks_count": 774
+    "forks_count": 777
   },
   {
     "full_name": "getdozer/dozer",
-    "stargazers_count": 1282,
-    "open_issues_count": 117,
+    "stargazers_count": 1285,
+    "open_issues_count": 115,
     "forks_count": 98
   },
   {
     "full_name": "sajib1066/django-event-management",
     "stargazers_count": 85,
     "open_issues_count": 4,
-    "forks_count": 48
+    "forks_count": 49
   },
   {
     "full_name": "codewithrafiq/Social-Network-in-Django-and-Reactjs",
@@ -85,15 +85,15 @@
   },
   {
     "full_name": "fineanmol/Hacktoberfest2023",
-    "stargazers_count": 1678,
-    "open_issues_count": 2800,
-    "forks_count": 5740
+    "stargazers_count": 1729,
+    "open_issues_count": 2878,
+    "forks_count": 5997
   },
   {
-    "full_name": "ossamamehmood/Hacktoberfest2023",
-    "stargazers_count": 1343,
-    "open_issues_count": 143,
-    "forks_count": 5161
+    "full_name": "ossamamehmood/Hacktoberfest",
+    "stargazers_count": 1394,
+    "open_issues_count": 271,
+    "forks_count": 5336
   },
   {
     "full_name": "rohitg00/DevOpsCommunity",
@@ -103,26 +103,26 @@
   },
   {
     "full_name": "kubescape/kubescape",
-    "stargazers_count": 8969,
-    "open_issues_count": 46,
+    "stargazers_count": 8976,
+    "open_issues_count": 52,
     "forks_count": 757
   },
   {
     "full_name": "bregman-arie/devops-exercises",
-    "stargazers_count": 58445,
+    "stargazers_count": 58502,
     "open_issues_count": 54,
-    "forks_count": 12409
+    "forks_count": 12430
   },
   {
     "full_name": "in28minutes/devops-master-class",
-    "stargazers_count": 1734,
+    "stargazers_count": 1737,
     "open_issues_count": 10,
-    "forks_count": 5019
+    "forks_count": 5031
   },
   {
     "full_name": "kubernetes/kubernetes",
-    "stargazers_count": 102159,
-    "open_issues_count": 2871,
-    "forks_count": 38044
+    "stargazers_count": 102267,
+    "open_issues_count": 2888,
+    "forks_count": 38067
   }
 ]
