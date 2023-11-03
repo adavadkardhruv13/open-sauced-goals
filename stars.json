@@ -1,45 +1,45 @@
 [
   {
     "full_name": "Netflix/conductor",
-    "stargazers_count": 12034,
-    "open_issues_count": 148,
-    "forks_count": 2295
+    "stargazers_count": 12038,
+    "open_issues_count": 149,
+    "forks_count": 2300
   },
   {
     "full_name": "deepfence/ThreatMapper",
     "stargazers_count": 4492,
-    "open_issues_count": 193,
+    "open_issues_count": 196,
     "forks_count": 564
   },
   {
     "full_name": "deepfence/ebpfguard",
-    "stargazers_count": 264,
+    "stargazers_count": 263,
     "open_issues_count": 12,
     "forks_count": 100
   },
   {
     "full_name": "deepfence/YaraHunter",
-    "stargazers_count": 1225,
-    "open_issues_count": 7,
+    "stargazers_count": 1224,
+    "open_issues_count": 8,
     "forks_count": 170
   },
   {
     "full_name": "deepfence/PacketStreamer",
-    "stargazers_count": 1847,
+    "stargazers_count": 1846,
     "open_issues_count": 21,
-    "forks_count": 262
+    "forks_count": 261
   },
   {
     "full_name": "deepfence/SecretScanner",
-    "stargazers_count": 2885,
+    "stargazers_count": 2884,
     "open_issues_count": 20,
-    "forks_count": 324
+    "forks_count": 325
   },
   {
     "full_name": "deepfence/FlowMeter",
-    "stargazers_count": 1061,
+    "stargazers_count": 1059,
     "open_issues_count": 2,
-    "forks_count": 188
+    "forks_count": 189
   },
   {
     "full_name": "Knighthawk-Leo/Awesome_Python_Scripts",
@@ -49,33 +49,33 @@
   },
   {
     "full_name": "keploy/keploy",
-    "stargazers_count": 2431,
-    "open_issues_count": 164,
-    "forks_count": 259
+    "stargazers_count": 2436,
+    "open_issues_count": 159,
+    "forks_count": 258
   },
   {
     "full_name": "vagabond-systems/forage-lyft-starter-repo",
-    "stargazers_count": 104,
-    "open_issues_count": 73,
-    "forks_count": 2266
+    "stargazers_count": 106,
+    "open_issues_count": 75,
+    "forks_count": 2284
   },
   {
     "full_name": "riti2409/Resources-for-preparation-Of-Placements",
-    "stargazers_count": 2937,
+    "stargazers_count": 2961,
     "open_issues_count": 9,
-    "forks_count": 776
+    "forks_count": 783
   },
   {
     "full_name": "getdozer/dozer",
-    "stargazers_count": 1308,
-    "open_issues_count": 113,
+    "stargazers_count": 1310,
+    "open_issues_count": 109,
     "forks_count": 105
   },
   {
     "full_name": "sajib1066/django-event-management",
-    "stargazers_count": 90,
+    "stargazers_count": 91,
     "open_issues_count": 2,
-    "forks_count": 50
+    "forks_count": 51
   },
   {
     "full_name": "codewithrafiq/Social-Network-in-Django-and-Reactjs",
@@ -85,44 +85,44 @@
   },
   {
     "full_name": "fineanmol/Hacktoberfest2023",
-    "stargazers_count": 1964,
-    "open_issues_count": 3371,
-    "forks_count": 7459
+    "stargazers_count": 1973,
+    "open_issues_count": 3381,
+    "forks_count": 7512
   },
   {
     "full_name": "ossamamehmood/Hacktoberfest",
-    "stargazers_count": 1420,
-    "open_issues_count": 88,
-    "forks_count": 5622
+    "stargazers_count": 1418,
+    "open_issues_count": 7,
+    "forks_count": 5620
   },
   {
     "full_name": "rohitg00/DevOpsCommunity",
-    "stargazers_count": 539,
+    "stargazers_count": 538,
     "open_issues_count": 5,
     "forks_count": 121
   },
   {
     "full_name": "kubescape/kubescape",
-    "stargazers_count": 9016,
-    "open_issues_count": 49,
+    "stargazers_count": 9023,
+    "open_issues_count": 48,
     "forks_count": 764
   },
   {
     "full_name": "bregman-arie/devops-exercises",
-    "stargazers_count": 59026,
+    "stargazers_count": 59263,
     "open_issues_count": 57,
-    "forks_count": 12538
+    "forks_count": 12570
   },
   {
     "full_name": "in28minutes/devops-master-class",
-    "stargazers_count": 1767,
-    "open_issues_count": 10,
-    "forks_count": 5064
+    "stargazers_count": 1778,
+    "open_issues_count": 11,
+    "forks_count": 5073
   },
   {
     "full_name": "kubernetes/kubernetes",
-    "stargazers_count": 102592,
-    "open_issues_count": 2793,
-    "forks_count": 38206
+    "stargazers_count": 102673,
+    "open_issues_count": 2778,
+    "forks_count": 38231
   }
 ]
