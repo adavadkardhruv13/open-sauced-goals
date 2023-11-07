@@ -1,43 +1,43 @@
 [
   {
     "full_name": "Netflix/conductor",
-    "stargazers_count": 12038,
-    "open_issues_count": 149,
-    "forks_count": 2300
+    "stargazers_count": 12334,
+    "open_issues_count": 150,
+    "forks_count": 2303
   },
   {
     "full_name": "deepfence/ThreatMapper",
-    "stargazers_count": 4492,
-    "open_issues_count": 196,
-    "forks_count": 564
+    "stargazers_count": 4495,
+    "open_issues_count": 194,
+    "forks_count": 563
   },
   {
     "full_name": "deepfence/ebpfguard",
     "stargazers_count": 263,
     "open_issues_count": 12,
-    "forks_count": 100
+    "forks_count": 99
   },
   {
     "full_name": "deepfence/YaraHunter",
     "stargazers_count": 1224,
-    "open_issues_count": 8,
-    "forks_count": 170
+    "open_issues_count": 7,
+    "forks_count": 169
   },
   {
     "full_name": "deepfence/PacketStreamer",
-    "stargazers_count": 1846,
+    "stargazers_count": 1847,
     "open_issues_count": 21,
     "forks_count": 261
   },
   {
     "full_name": "deepfence/SecretScanner",
-    "stargazers_count": 2884,
-    "open_issues_count": 20,
-    "forks_count": 325
+    "stargazers_count": 2885,
+    "open_issues_count": 21,
+    "forks_count": 324
   },
   {
     "full_name": "deepfence/FlowMeter",
-    "stargazers_count": 1059,
+    "stargazers_count": 1060,
     "open_issues_count": 2,
     "forks_count": 189
   },
@@ -49,33 +49,33 @@
   },
   {
     "full_name": "keploy/keploy",
-    "stargazers_count": 2436,
+    "stargazers_count": 2446,
     "open_issues_count": 159,
-    "forks_count": 258
+    "forks_count": 256
   },
   {
     "full_name": "vagabond-systems/forage-lyft-starter-repo",
     "stargazers_count": 106,
-    "open_issues_count": 75,
-    "forks_count": 2284
+    "open_issues_count": 77,
+    "forks_count": 2288
   },
   {
     "full_name": "riti2409/Resources-for-preparation-Of-Placements",
-    "stargazers_count": 2961,
+    "stargazers_count": 2964,
     "open_issues_count": 9,
     "forks_count": 783
   },
   {
     "full_name": "getdozer/dozer",
     "stargazers_count": 1310,
-    "open_issues_count": 109,
+    "open_issues_count": 113,
     "forks_count": 105
   },
   {
     "full_name": "sajib1066/django-event-management",
-    "stargazers_count": 91,
+    "stargazers_count": 92,
     "open_issues_count": 2,
-    "forks_count": 51
+    "forks_count": 52
   },
   {
     "full_name": "codewithrafiq/Social-Network-in-Django-and-Reactjs",
@@ -85,44 +85,44 @@
   },
   {
     "full_name": "fineanmol/Hacktoberfest2023",
-    "stargazers_count": 1973,
-    "open_issues_count": 3381,
-    "forks_count": 7512
+    "stargazers_count": 1968,
+    "open_issues_count": 3372,
+    "forks_count": 7492
   },
   {
     "full_name": "ossamamehmood/Hacktoberfest",
-    "stargazers_count": 1418,
-    "open_issues_count": 7,
-    "forks_count": 5620
+    "stargazers_count": 1413,
+    "open_issues_count": 8,
+    "forks_count": 5602
   },
   {
     "full_name": "rohitg00/DevOpsCommunity",
     "stargazers_count": 538,
     "open_issues_count": 5,
-    "forks_count": 121
+    "forks_count": 122
   },
   {
     "full_name": "kubescape/kubescape",
-    "stargazers_count": 9023,
-    "open_issues_count": 48,
-    "forks_count": 764
+    "stargazers_count": 9032,
+    "open_issues_count": 45,
+    "forks_count": 766
   },
   {
     "full_name": "bregman-arie/devops-exercises",
-    "stargazers_count": 59263,
+    "stargazers_count": 59353,
     "open_issues_count": 57,
-    "forks_count": 12570
+    "forks_count": 12591
   },
   {
     "full_name": "in28minutes/devops-master-class",
-    "stargazers_count": 1778,
+    "stargazers_count": 1785,
     "open_issues_count": 11,
-    "forks_count": 5073
+    "forks_count": 5088
   },
   {
     "full_name": "kubernetes/kubernetes",
-    "stargazers_count": 102673,
-    "open_issues_count": 2778,
-    "forks_count": 38231
+    "stargazers_count": 102747,
+    "open_issues_count": 2807,
+    "forks_count": 38253
   }
 ]
