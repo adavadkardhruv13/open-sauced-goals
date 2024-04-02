@@ -19,19 +19,19 @@
   },
   {
     "full_name": "keploy/keploy",
-    "stargazers_count": 3262,
-    "open_issues_count": 213,
-    "forks_count": 354
+    "stargazers_count": 3270,
+    "open_issues_count": 217,
+    "forks_count": 356
   },
   {
     "full_name": "vagabond-systems/forage-lyft-starter-repo",
     "stargazers_count": 111,
     "open_issues_count": 88,
-    "forks_count": 2501
+    "forks_count": 2504
   },
   {
     "full_name": "riti2409/Resources-for-preparation-Of-Placements",
-    "stargazers_count": 3156,
+    "stargazers_count": 3159,
     "open_issues_count": 9,
     "forks_count": 826
   },
@@ -50,14 +50,14 @@
   {
     "full_name": "fineanmol/Hacktoberfest2023",
     "stargazers_count": 1898,
-    "open_issues_count": 3175,
-    "forks_count": 7035
+    "open_issues_count": 3172,
+    "forks_count": 7027
   },
   {
     "full_name": "ossamamehmood/Hacktoberfest",
-    "stargazers_count": 1319,
+    "stargazers_count": 1318,
     "open_issues_count": 3,
-    "forks_count": 5239
+    "forks_count": 5233
   },
   {
     "full_name": "rohitg00/DevOpsCommunity",
@@ -67,26 +67,26 @@
   },
   {
     "full_name": "kubescape/kubescape",
-    "stargazers_count": 9641,
+    "stargazers_count": 9646,
     "open_issues_count": 42,
-    "forks_count": 798
+    "forks_count": 797
   },
   {
     "full_name": "bregman-arie/devops-exercises",
-    "stargazers_count": 62862,
+    "stargazers_count": 62952,
     "open_issues_count": 38,
-    "forks_count": 13680
+    "forks_count": 13721
   },
   {
     "full_name": "in28minutes/devops-master-class",
-    "stargazers_count": 1996,
-    "open_issues_count": 14,
-    "forks_count": 5487
+    "stargazers_count": 2000,
+    "open_issues_count": 13,
+    "forks_count": 5493
   },
   {
     "full_name": "kubernetes/kubernetes",
-    "stargazers_count": 106137,
-    "open_issues_count": 2616,
-    "forks_count": 38222
+    "stargazers_count": 106227,
+    "open_issues_count": 2589,
+    "forks_count": 38240
   }
 ]
