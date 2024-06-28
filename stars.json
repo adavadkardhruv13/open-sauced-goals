@@ -19,25 +19,25 @@
   },
   {
     "full_name": "keploy/keploy",
-    "stargazers_count": 3451,
-    "open_issues_count": 215,
+    "stargazers_count": 3468,
+    "open_issues_count": 154,
     "forks_count": 382
   },
   {
     "full_name": "vagabond-systems/forage-lyft-starter-repo",
     "stargazers_count": 111,
     "open_issues_count": 87,
-    "forks_count": 2506
+    "forks_count": 2503
   },
   {
     "full_name": "riti2409/Resources-for-preparation-Of-Placements",
-    "stargazers_count": 3310,
+    "stargazers_count": 3312,
     "open_issues_count": 9,
-    "forks_count": 857
+    "forks_count": 858
   },
   {
     "full_name": "sajib1066/django-event-management",
-    "stargazers_count": 123,
+    "stargazers_count": 125,
     "open_issues_count": 6,
     "forks_count": 65
   },
@@ -49,15 +49,15 @@
   },
   {
     "full_name": "fineanmol/Hacktoberfest2023",
-    "stargazers_count": 1863,
-    "open_issues_count": 3117,
-    "forks_count": 6915
+    "stargazers_count": 1862,
+    "open_issues_count": 3114,
+    "forks_count": 6911
   },
   {
     "full_name": "ossamamehmood/Hacktoberfest",
     "stargazers_count": 1302,
-    "open_issues_count": 4,
-    "forks_count": 5129
+    "open_issues_count": 0,
+    "forks_count": 5126
   },
   {
     "full_name": "rohitg00/DevOpsCommunity",
@@ -67,26 +67,26 @@
   },
   {
     "full_name": "kubescape/kubescape",
-    "stargazers_count": 9874,
-    "open_issues_count": 50,
-    "forks_count": 825
+    "stargazers_count": 9883,
+    "open_issues_count": 44,
+    "forks_count": 826
   },
   {
     "full_name": "bregman-arie/devops-exercises",
-    "stargazers_count": 64607,
-    "open_issues_count": 27,
-    "forks_count": 14243
+    "stargazers_count": 64652,
+    "open_issues_count": 28,
+    "forks_count": 14268
   },
   {
     "full_name": "in28minutes/devops-master-class",
-    "stargazers_count": 2141,
+    "stargazers_count": 2143,
     "open_issues_count": 14,
-    "forks_count": 5693
+    "forks_count": 5704
   },
   {
     "full_name": "kubernetes/kubernetes",
-    "stargazers_count": 108047,
-    "open_issues_count": 2595,
-    "forks_count": 38794
+    "stargazers_count": 108121,
+    "open_issues_count": 2574,
+    "forks_count": 38817
   }
 ]
