@@ -13,15 +13,15 @@
   },
   {
     "full_name": "ntsd/zero-share",
-    "stargazers_count": 83,
+    "stargazers_count": 85,
     "open_issues_count": 1,
     "forks_count": 8
   },
   {
     "full_name": "keploy/keploy",
-    "stargazers_count": 3910,
-    "open_issues_count": 147,
-    "forks_count": 430
+    "stargazers_count": 3913,
+    "open_issues_count": 152,
+    "forks_count": 432
   },
   {
     "full_name": "vagabond-systems/forage-lyft-starter-repo",
@@ -31,13 +31,13 @@
   },
   {
     "full_name": "riti2409/Resources-for-preparation-Of-Placements",
-    "stargazers_count": 3492,
+    "stargazers_count": 3496,
     "open_issues_count": 10,
-    "forks_count": 880
+    "forks_count": 882
   },
   {
     "full_name": "sajib1066/django-event-management",
-    "stargazers_count": 139,
+    "stargazers_count": 140,
     "open_issues_count": 6,
     "forks_count": 68
   },
@@ -49,15 +49,15 @@
   },
   {
     "full_name": "fineanmol/Hacktoberfest2024",
-    "stargazers_count": 1856,
-    "open_issues_count": 3057,
-    "forks_count": 6820
+    "stargazers_count": 1863,
+    "open_issues_count": 3054,
+    "forks_count": 6818
   },
   {
     "full_name": "ossamamehmood/Hacktoberfest",
     "stargazers_count": 1288,
     "open_issues_count": 0,
-    "forks_count": 5057
+    "forks_count": 5053
   },
   {
     "full_name": "rohitg00/DevOpsCommunity",
@@ -67,26 +67,26 @@
   },
   {
     "full_name": "kubescape/kubescape",
-    "stargazers_count": 10104,
-    "open_issues_count": 50,
+    "stargazers_count": 10123,
+    "open_issues_count": 53,
     "forks_count": 835
   },
   {
     "full_name": "bregman-arie/devops-exercises",
-    "stargazers_count": 65934,
+    "stargazers_count": 65987,
     "open_issues_count": 30,
-    "forks_count": 14700
+    "forks_count": 14711
   },
   {
     "full_name": "in28minutes/devops-master-class",
-    "stargazers_count": 2254,
-    "open_issues_count": 14,
-    "forks_count": 5941
+    "stargazers_count": 2261,
+    "open_issues_count": 15,
+    "forks_count": 5955
   },
   {
     "full_name": "kubernetes/kubernetes",
-    "stargazers_count": 109916,
-    "open_issues_count": 2632,
-    "forks_count": 39346
+    "stargazers_count": 110007,
+    "open_issues_count": 2640,
+    "forks_count": 39361
   }
 ]
