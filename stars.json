@@ -15,12 +15,12 @@
     "full_name": "ntsd/zero-share",
     "stargazers_count": 99,
     "open_issues_count": 1,
-    "forks_count": 10
+    "forks_count": 11
   },
   {
     "full_name": "keploy/keploy",
-    "stargazers_count": 5280,
-    "open_issues_count": 136,
+    "stargazers_count": 5293,
+    "open_issues_count": 135,
     "forks_count": 543
   },
   {
@@ -31,15 +31,15 @@
   },
   {
     "full_name": "riti2409/Resources-for-preparation-Of-Placements",
-    "stargazers_count": 3596,
+    "stargazers_count": 3598,
     "open_issues_count": 9,
-    "forks_count": 905
+    "forks_count": 904
   },
   {
     "full_name": "sajib1066/django-event-management",
     "stargazers_count": 160,
     "open_issues_count": 8,
-    "forks_count": 78
+    "forks_count": 79
   },
   {
     "full_name": "codewithrafiq/Social-Network-in-Django-and-Reactjs",
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "fineanmol/Hacktoberfest2024",
-    "stargazers_count": 2489,
+    "stargazers_count": 2487,
     "open_issues_count": 3484,
-    "forks_count": 7891
+    "forks_count": 7890
   },
   {
     "full_name": "ossamamehmood/Hacktoberfest",
@@ -61,32 +61,32 @@
   },
   {
     "full_name": "rohitg00/DevOpsCommunity",
-    "stargazers_count": 707,
+    "stargazers_count": 717,
     "open_issues_count": 4,
-    "forks_count": 159
+    "forks_count": 160
   },
   {
     "full_name": "kubescape/kubescape",
-    "stargazers_count": 10392,
+    "stargazers_count": 10396,
     "open_issues_count": 54,
-    "forks_count": 843
+    "forks_count": 844
   },
   {
     "full_name": "bregman-arie/devops-exercises",
-    "stargazers_count": 67528,
+    "stargazers_count": 67568,
     "open_issues_count": 40,
-    "forks_count": 15102
+    "forks_count": 15117
   },
   {
     "full_name": "in28minutes/devops-master-class",
-    "stargazers_count": 2429,
+    "stargazers_count": 2430,
     "open_issues_count": 16,
-    "forks_count": 6184
+    "forks_count": 6191
   },
   {
     "full_name": "kubernetes/kubernetes",
-    "stargazers_count": 112671,
-    "open_issues_count": 2531,
-    "forks_count": 40101
+    "stargazers_count": 112723,
+    "open_issues_count": 2538,
+    "forks_count": 40124
   }
 ]
