@@ -1,9 +1,9 @@
 [
   {
     "full_name": "DigitalPlatDev/FreeDomain",
-    "stargazers_count": 90594,
+    "stargazers_count": 92606,
     "open_issues_count": 18,
-    "forks_count": 1688
+    "forks_count": 1736
   },
   {
     "full_name": "Knighthawk-Leo/Awesome_Python_Scripts",
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "keploy/keploy",
-    "stargazers_count": 10353,
+    "stargazers_count": 10352,
     "open_issues_count": 265,
-    "forks_count": 1508
+    "forks_count": 1512
   },
   {
     "full_name": "vagabond-systems/forage-lyft-starter-repo",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "fineanmol/Hacktoberfest2024",
-    "stargazers_count": 2424,
+    "stargazers_count": 2421,
     "open_issues_count": 3396,
-    "forks_count": 7692
+    "forks_count": 7690
   },
   {
     "full_name": "ossamamehmood/Hacktoberfest",
@@ -67,32 +67,32 @@
   },
   {
     "full_name": "rohitg00/DevOpsCommunity",
-    "stargazers_count": 795,
+    "stargazers_count": 797,
     "open_issues_count": 5,
     "forks_count": 180
   },
   {
     "full_name": "kubescape/kubescape",
-    "stargazers_count": 10969,
+    "stargazers_count": 10971,
     "open_issues_count": 58,
-    "forks_count": 879
+    "forks_count": 881
   },
   {
     "full_name": "bregman-arie/devops-exercises",
-    "stargazers_count": 78072,
+    "stargazers_count": 78105,
     "open_issues_count": 39,
-    "forks_count": 17514
+    "forks_count": 17522
   },
   {
     "full_name": "in28minutes/devops-master-class",
-    "stargazers_count": 2661,
+    "stargazers_count": 2663,
     "open_issues_count": 21,
-    "forks_count": 6496
+    "forks_count": 6498
   },
   {
     "full_name": "kubernetes/kubernetes",
-    "stargazers_count": 117126,
-    "open_issues_count": 2560,
-    "forks_count": 41255
+    "stargazers_count": 117210,
+    "open_issues_count": 2561,
+    "forks_count": 41267
   }
 ]
