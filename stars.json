@@ -1,15 +1,15 @@
 [
   {
     "full_name": "punkpeye/awesome-mcp-servers",
-    "stargazers_count": 72681,
-    "open_issues_count": 168,
-    "forks_count": 6055
+    "stargazers_count": 72992,
+    "open_issues_count": 175,
+    "forks_count": 6081
   },
   {
     "full_name": "DigitalPlatDev/FreeDomain",
-    "stargazers_count": 105739,
+    "stargazers_count": 107575,
     "open_issues_count": 19,
-    "forks_count": 1980
+    "forks_count": 2029
   },
   {
     "full_name": "Knighthawk-Leo/Awesome_Python_Scripts",
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "keploy/keploy",
-    "stargazers_count": 11667,
-    "open_issues_count": 324,
-    "forks_count": 1707
+    "stargazers_count": 11730,
+    "open_issues_count": 326,
+    "forks_count": 1717
   },
   {
     "full_name": "vagabond-systems/forage-lyft-starter-repo",
@@ -61,44 +61,44 @@
   },
   {
     "full_name": "fineanmol/Hacktoberfest2025",
-    "stargazers_count": 2554,
-    "open_issues_count": 3222,
-    "forks_count": 8246
+    "stargazers_count": 2576,
+    "open_issues_count": 3264,
+    "forks_count": 8351
   },
   {
     "full_name": "ossamamehmood/Hacktoberfest",
-    "stargazers_count": 1316,
-    "open_issues_count": 38,
-    "forks_count": 4996
+    "stargazers_count": 1317,
+    "open_issues_count": 42,
+    "forks_count": 5012
   },
   {
     "full_name": "rohitg00/DevOpsCommunity",
-    "stargazers_count": 894,
+    "stargazers_count": 901,
     "open_issues_count": 6,
     "forks_count": 221
   },
   {
     "full_name": "kubescape/kubescape",
-    "stargazers_count": 11017,
+    "stargazers_count": 11024,
     "open_issues_count": 55,
     "forks_count": 883
   },
   {
     "full_name": "bregman-arie/devops-exercises",
-    "stargazers_count": 79342,
+    "stargazers_count": 79394,
     "open_issues_count": 38,
-    "forks_count": 17945
+    "forks_count": 17956
   },
   {
     "full_name": "in28minutes/devops-master-class",
-    "stargazers_count": 2717,
+    "stargazers_count": 2720,
     "open_issues_count": 22,
-    "forks_count": 6555
+    "forks_count": 6560
   },
   {
     "full_name": "kubernetes/kubernetes",
-    "stargazers_count": 117964,
-    "open_issues_count": 2506,
-    "forks_count": 41506
+    "stargazers_count": 118027,
+    "open_issues_count": 2510,
+    "forks_count": 41528
   }
 ]
